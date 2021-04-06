@@ -12,3 +12,4 @@ Además hemos necesitado de un framework de desarrollo web, el elegido ha sido D
 
 Por último, hemos necesitado una base de datos donde guardar las características de nuestros arboles, hemos elegido sqlite3, que es la base de datos que viene ya incorporada con nuestro framework.
 
+
